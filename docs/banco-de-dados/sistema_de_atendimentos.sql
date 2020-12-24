@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `clientes` (
 /*!40000 ALTER TABLE `clientes` DISABLE KEYS */;
 INSERT INTO `clientes` (`id`, `nome`, `cpf`, `telefone`, `nascimento`, `email`) VALUES
 	(1, 'Marcos Fábio dos Santos Amaral Júnior', '03745685377', '(85) 98845-1324', '1988-05-12', 'marcaum54@gmail.com'),
-	(2, 'Antônio Thiago Dias Lima', '06563528333', '(85) 99125-7129', '2000-01-23', 'thiagodiaslima10@gmail.com'),
+	(2, 'Antônio Thiago Dias Lima', '9508528662', '(85) 99125-5090', '2000-01-23', 'thiagodiaslima10@gmail.com'),
 	(6, 'AAAAAAA', '36249401121', '(85) 98845-1324', '2019-12-14', 'marcos@pc4.com.br');
 /*!40000 ALTER TABLE `clientes` ENABLE KEYS */;
 
